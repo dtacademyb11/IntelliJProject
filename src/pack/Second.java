@@ -7,5 +7,5 @@ public class Second {
 //"Hello"
     // HI
 
-//  My changes
+//  A change is made by other person
 }
